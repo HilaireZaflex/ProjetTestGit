@@ -1,0 +1,12 @@
+- Pour la version Git : git version
+Pour créer un dossier : je tape la commande d : dans le termine ensuite la commande mkdir ProjetGit
+
+Pour créer le fichier : echo>nom du fichier
+Les commandes pour associer 
+- git init
+- git add 
+- git commit –m 
+- git remote add origin
+- git branch –M main
+- git push –u origin main
+
